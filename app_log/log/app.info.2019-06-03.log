@@ -1,0 +1,47 @@
+2019-06-03 14:31:57.257 INFO [restartedMain]net.xdclass.xdvideo.XdvideoApplication.logStarting:50 -Starting XdvideoApplication on MSI with PID 21308 (E:\ideaWork\xdvideo\target\classes started by 龚臣 in E:\ideaWork\xdvideo)
+2019-06-03 14:31:57.260 INFO [restartedMain]net.xdclass.xdvideo.XdvideoApplication.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-06-03 14:31:57.381 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:227 -Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-06-03 14:31:57.382 INFO [restartedMain]o.s.b.devtools.env.DevToolsPropertyDefaultsPostProcessor.logTo:227 -For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-06-03 14:31:59.142 INFO [restartedMain]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-03 14:31:59.145 INFO [restartedMain]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-06-03 14:31:59.208 INFO [restartedMain]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 42ms. Found 0 repository interfaces.
+2019-06-03 14:31:59.709 INFO [restartedMain]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$db1d5cc4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-03 14:32:00.380 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2019-06-03 14:32:00.406 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2019-06-03 14:32:00.414 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2019-06-03 14:32:00.414 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-03 14:32:00.693 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2019-06-03 14:32:00.694 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 3300 ms
+2019-06-03 14:32:01.514 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-03 14:32:02.344 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2019-06-03 14:32:02.384 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2019-06-03 14:32:02.431 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2019-06-03 14:32:02.442 INFO [restartedMain]net.xdclass.xdvideo.XdvideoApplication.logStarted:59 -Started XdvideoApplication in 5.942 seconds (JVM running for 9.575)
+2019-06-03 14:32:25.285 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-03 14:32:25.285 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2019-06-03 14:32:25.291 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 6 ms
+2019-06-03 14:32:25.443 INFO [http-nio-8081-exec-1]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
+2019-06-03 15:43:43.299 INFO [Thread-18]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.shutdown:208 -Shutting down ExecutorService 'applicationTaskExecutor'
+2019-06-03 15:43:43.309 INFO [Thread-18]com.alibaba.druid.pool.DruidDataSource.close:1817 -{dataSource-1} closed
+2019-06-03 15:43:44.200 INFO [restartedMain]net.xdclass.xdvideo.XdvideoApplication.logStarting:50 -Starting XdvideoApplication on MSI with PID 21308 (E:\ideaWork\xdvideo\target\classes started by 龚臣 in E:\ideaWork\xdvideo)
+2019-06-03 15:43:44.201 INFO [restartedMain]net.xdclass.xdvideo.XdvideoApplication.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-06-03 15:43:45.147 INFO [restartedMain]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-03 15:43:45.147 INFO [restartedMain]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-06-03 15:43:45.163 INFO [restartedMain]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 16ms. Found 0 repository interfaces.
+2019-06-03 15:43:45.248 INFO [restartedMain]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$db1d5cc4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-03 15:43:45.585 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8081 (http)
+2019-06-03 15:43:45.586 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8081"]
+2019-06-03 15:43:45.586 INFO [restartedMain]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2019-06-03 15:43:45.587 INFO [restartedMain]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.19]
+2019-06-03 15:43:45.677 INFO [restartedMain]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2019-06-03 15:43:45.677 INFO [restartedMain]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1466 ms
+2019-06-03 15:43:45.903 INFO [restartedMain]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-03 15:43:46.087 INFO [restartedMain]o.s.boot.devtools.autoconfigure.OptionalLiveReloadServer.startServer:57 -LiveReload server is running on port 35729
+2019-06-03 15:43:46.113 INFO [restartedMain]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8081"]
+2019-06-03 15:43:46.125 INFO [restartedMain]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8081 (http) with context path ''
+2019-06-03 15:43:46.129 INFO [restartedMain]net.xdclass.xdvideo.XdvideoApplication.logStarted:59 -Started XdvideoApplication in 2.074 seconds (JVM running for 4313.263)
+2019-06-03 15:43:46.132 INFO [restartedMain]o.s.b.d.a.ConditionEvaluationDeltaLoggingListener.onApplicationEvent:70 -Condition evaluation unchanged
+2019-06-03 15:43:54.630 INFO [http-nio-8081-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-06-03 15:43:54.634 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2019-06-03 15:43:54.646 INFO [http-nio-8081-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 8 ms
+2019-06-03 15:43:54.673 INFO [http-nio-8081-exec-1]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-2} inited

@@ -1,0 +1,9 @@
+2019-06-18 21:39:59.243 INFO [main]net.xdclass.xdvideo.mapper.VideoOrderMapperTest.logStarting:50 -Starting VideoOrderMapperTest on DESKTOP-PN7I4LR with PID 21344 (started by 龚臣 in F:\U盘\xdvideo)
+2019-06-18 21:39:59.245 INFO [main]net.xdclass.xdvideo.mapper.VideoOrderMapperTest.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-06-18 21:40:00.198 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:244 -Multiple Spring Data modules found, entering strict repository configuration mode!
+2019-06-18 21:40:00.201 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:126 -Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-06-18 21:40:00.423 INFO [main]o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:182 -Finished Spring Data repository scanning in 209ms. Found 0 repository interfaces.
+2019-06-18 21:40:00.782 INFO [main]o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker.postProcessAfterInitialization:330 -Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$544a5ac6] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2019-06-18 21:40:01.681 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-06-18 21:40:02.364 INFO [main]net.xdclass.xdvideo.mapper.VideoOrderMapperTest.logStarted:59 -Started VideoOrderMapperTest in 3.665 seconds (JVM running for 4.558)
+2019-06-18 21:40:02.721 INFO [main]com.alibaba.druid.pool.DruidDataSource.init:922 -{dataSource-1} inited
